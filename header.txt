@@ -1,4 +1,9 @@
 Some text for header
 
+ChANGEs from <first>
+
 Change from <master>
+
+Text from master: new Change
+
 
