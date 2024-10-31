@@ -1,9 +1,13 @@
 Some text for header
 
+<<<<<<< HEAD
 ChANGEs from <first>
 
 Change from <master>
 
 Text from master: new Change
 
+=======
+Change from <master> - new change
+>>>>>>> e319f5b (add some text to header)
 
